@@ -25,10 +25,6 @@ echo $bdinfosys_sms->send();	// Call method send() to send SMS Message.
 [Details for SMS API Click Here]
 
 
-**visit Bdinfosys Website for Details**
-
-
-
 
 [Details for SMS API Click Here]:http://www.bdinfosys.com/sms-api/
 
